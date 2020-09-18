@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MilhasParaKm/1.0.0": {
+        "runtime": {
+          "MilhasParaKm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilhasParaKm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

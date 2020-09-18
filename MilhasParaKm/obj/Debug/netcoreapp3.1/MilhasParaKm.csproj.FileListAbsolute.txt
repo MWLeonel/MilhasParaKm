@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.exe
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.deps.json
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.dll
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\bin\Debug\netcoreapp3.1\MilhasParaKm.pdb
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.dll
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.pdb
+C:\Users\Max Leonel\Desktop\MilhasParaKm\MilhasParaKm\obj\Debug\netcoreapp3.1\MilhasParaKm.genruntimeconfig.cache
